@@ -1,2 +1,2 @@
-# basecone
+# Basecone
 Basecone library for WordPress.
